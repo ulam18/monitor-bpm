@@ -1,0 +1,14 @@
+# Arquivos gerados pela compilação
+build/
+deps/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+
+# Arquivos temporários do KiCad
+*-backups/
+*.kicad_prl
+fp-info-cache
+_autosave-*
